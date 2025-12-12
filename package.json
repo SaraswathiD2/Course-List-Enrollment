@@ -1,0 +1,20 @@
+{
+  "name": "asgnmt-1",
+  "version": "1.0.0",
+  "description": "Course List & Enrollment - Full Stack Assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1",
+    "sqlite3": "^5.1.7",
+    "cors": "^2.8.5"
+  }
+}
+
